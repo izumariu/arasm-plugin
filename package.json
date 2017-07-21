@@ -1,7 +1,7 @@
 {
   "name": "language-arasm",
   "main": "./lib/language-arasm",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "ARASM grammar",
   "keywords": [],
   "repository": "https://github.com/sesshomariu/arasm-plugin",
