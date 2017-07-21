@@ -1,0 +1,14 @@
+{
+  "name": "language-arasm",
+  "main": "./lib/language-arasm",
+  "version": "0.1.0",
+  "description": "ARASM grammar",
+  "keywords": [],
+  "repository": "https://github.com/sesshomariu/arasm-plugin",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "scope": "source.arasm",
+  "dependencies": {}
+}
