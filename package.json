@@ -5,7 +5,7 @@
   "description": "ARASM grammar",
   "keywords": [
   ],
-  "repository": "https://github.com/sesshomariu/arasm-plugin/",
+  "repository": "https://github.com/sesshomariu/arasm-plugin",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
